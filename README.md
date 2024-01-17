@@ -1,7 +1,7 @@
 ![gitartwork](gitartwork.svg)
 <h1 align="center">Hi 👋, I'm Bhavin Patel</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<img align="center" alt="Coder GIF" width=100% src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<img align="center" alt="Coder GIF" width=50% src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bincy-bee&label=Profile%20views&color=0e75b6&style=flat" alt="bincy-bee" /> </p>
 
